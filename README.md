@@ -1,0 +1,1 @@
+# clonespreadsheet-json-output
